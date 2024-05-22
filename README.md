@@ -61,7 +61,7 @@ Paso 2: Calculamos los codigos para los strings y determinar su indice:
 "HashMap" tiene un hash de 69609650 y se asigna al índice 2.
 "Colecciones" tiene un hash de -1644051683 y se asigna al índice 13.
 
-Diagrama de la estructura del HashMap
+Diagrama de la estructura del HashMap (encadenamiento)
 
     Buckets (size 16)
     Index | Node (Entry)
